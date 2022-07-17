@@ -5,9 +5,8 @@
 </p>
 
 ```
- git clone https://github.com/Malam-X/TCP-Flood
- cd TCP-Flood
- python flood.py
+ apt update -y && apt install git -y && git clone https://github.com/Master05710/TCP-Flood && cd TCP-Flood && apt install python3-pip -y && pip3 install requests && clear && python3 flood.py
+
 ```
 
 https://www.youtube.com/watch?v=iVWfcw6_pZ4&t=65s
